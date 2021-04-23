@@ -4,8 +4,8 @@ entries:
   - annotations:
       helm-chart.openshift.io/archs: all
       helm-chart.openshift.io/digest: sha256:9300e086ee4739fb22456f17322b79180a98a74b259d697c076dcf8f560db502
-      helm-chart.openshift.io/lastCertifiedTime: 2021-04-23 11:26:23.615875219 +0000
-        UTC m=+1.166649867
+      helm-chart.openshift.io/lastCertifiedTime: 2021-04-23 12:52:17.758979798 +0000
+        UTC m=+1.532629627
       helm-chart.openshift.io/name: get your awesomeness here
       helm-chart.openshift.io/provider: acme
       helm-chart.openshift.io/supportURL: http://acme-help-is-here.com/
