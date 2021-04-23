@@ -1,0 +1,20 @@
+apiVersion: v1
+entries:
+  test-org1-awesome:
+  - annotations:
+      helm-chart.openshift.io/archs: all
+      helm-chart.openshift.io/digest: sha256:9300e086ee4739fb22456f17322b79180a98a74b259d697c076dcf8f560db502
+      helm-chart.openshift.io/lastCertifiedTime: 2021-04-23 11:26:23.615875219 +0000
+        UTC m=+1.166649867
+      helm-chart.openshift.io/name: get your awesomeness here
+      helm-chart.openshift.io/provider: acme
+      helm-chart.openshift.io/supportURL: http://acme-help-is-here.com/
+    apiVersion: v2
+    appVersion: 1.16.0
+    description: A Helm chart for Awesomeness
+    icon: https://www.example.com/chart-icon.png
+    kubeVersion: 1.20.0
+    name: awesome
+    type: application
+    version: 0.1.0
+generated: '2021-04-23T11:26:24.169313+00:00'
